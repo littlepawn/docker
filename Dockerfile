@@ -1,4 +1,4 @@
-FROM ubuntu  
+FROM php-env:lastest 
 
 MAINTAINER Jason Wang <littlepawn@qq.com>
 
